@@ -1,5 +1,7 @@
 # Практика: Введение в Kubernetes (через Minikube)
 
+[Презентация к вебинару](https://docs.google.com/presentation/d/1YkkiDIOgsxyHZgycdKeTeIliiSIRBtp8-xsP2BfUMUI/edit?usp=sharing)
+
 Этот документ содержит шаги для live-сессии по работе с Kubernetes. Все команды можно выполнять локально через Minikube.
 
 ---
